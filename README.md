@@ -1,7 +1,12 @@
 # LamaPrints-react
 
 # Projet d'e-commerce utilisant vite et react
-
+dépendances : 
+- eslint
+- stripe
+- bootstrap
+- react router
+- sass
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
